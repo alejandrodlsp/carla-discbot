@@ -13,19 +13,19 @@
 ***
 
 **Music**
-* Join               *Joins the current voice channel*
-* Leave              *Leaves the current voice channel*
-* Play {youtube_url} *Plays a youtube song*
-* Pause              *Pauses current song*
-* Resume             *Resumes current song*
-* Stop               *Stops current song*
+* Join                *Joins the current voice channel*
+* Leave                *Leaves the current voice channel*
+* Play {youtube_url}        *Plays a youtube song*
+* Pause                *Pauses current song*
+* Resume                *Resumes current song*
+* Stop                *Stops current song*
 
 ***
 
 **Util**
-* Ping                  *Pings the server and prints latency*
-* Clear {N of messages} *Clear messages in current channel*
-* Request {content}     *Makes a request for a new command*
+* Ping                 *Pings the server and prints latency*
+* Clear {N of messages}     *Clear messages in current channel*
+* Request {content}        *Makes a request for a new command*
 
 ***
 
@@ -57,16 +57,16 @@
 * Trump {text1} {text2}        
 * Waiting {text1} {text2}    
 * Yelling {text1} {text2}    
-* meme_api     *Prints a link to the [meme API](https://api.imgflip.com/popular_meme_ids)*   
+* meme_api                *Prints a link to the [meme API](https://api.imgflip.com/popular_meme_ids)*   
 
 ***
 
 **Fun**
-* Carla        *Meet my friend Carla*
-* Cat          *Gives you a picture of a cute cat*
-* Dog          *Lightens your day with a picture of a puppy*
-* Question     *Gives you an answer to your question*
-* Sad          *Don't be sad, be rocking*        
+* Carla        *Meet my friend Carla*
+* Cat             *Gives you a picture of a cute cat*
+* Dog              *Lightens your day with a picture of a puppy*
+* Question        *Gives you an answer to your question*
+* Sad             *Don't be sad, be rocking*        
 * SJW      
 * Vox          
-* Dick @User   *Calculates the penis size of an user*
+* Dick @User        *Calculates the penis size of an user*
