@@ -6,14 +6,14 @@
 ### Commands:
 
 **Admin**
-* Ban @User      *Bans an user from the guild*
+* Ban @User      * Bans an user from the guild *
 * Unban @User    *Pardons an user from the guild*
 * Kick @User     *Kicks an user from the guild*
 * set_locale {locale_code} *Sets locale of current guild.  Available locales: {en, es}*
 ***
 
 **Music**
-* **Join**               *Joins the current voice channel*
+* Join               *Joins the current voice channel*
 * Leave              *Leaves the current voice channel*
 * Play {youtube_url} *Plays a youtube song*
 * Pause              *Pauses current song*
