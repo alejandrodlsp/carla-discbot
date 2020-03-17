@@ -6,7 +6,7 @@
 ### Commands:
 
 **Admin**
-* Ban @User      * Bans an user from the guild *
+* Ban @User      *Bans an user from the guild*
 * Unban @User    *Pardons an user from the guild*
 * Kick @User     *Kicks an user from the guild*
 * set_locale {locale_code} *Sets locale of current guild.  Available locales: {en, es}*
