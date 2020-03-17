@@ -1,9 +1,9 @@
-#  Carla
+#  	:speak_no_evil: Carla 	:speak_no_evil:
 ## A discord bot with basic commands support.
 
 ***
 
-##Commands:
+### Commands:
 
 **Admin**
 * Ban @User      *Bans an user from the guild*
@@ -13,7 +13,7 @@
 ***
 
 **Music**
-* Join               *Joins the current voice channel*
+* **Join**               *Joins the current voice channel*
 * Leave              *Leaves the current voice channel*
 * Play {youtube_url} *Plays a youtube song*
 * Pause              *Pauses current song*
