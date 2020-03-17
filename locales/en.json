@@ -1,0 +1,17 @@
+{
+  "on_pardon": ":cowboy: The cowboy pardoned: ",
+  "carla" : "I'm an ally, show me your tits",
+  "dick" : ":eggplant:  I calculated the dick size for ",
+  "sjw" : "PUAJ PUAJ :face_vomiting: :face_vomiting:",
+  "vox" : ":flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es:",
+  "sad" : ":pensive: :love_you_gesture_tone1:",
+  "meme_embed" : ":see_no_evil:  Here you have your meme :see_no_evil: ",
+  "join" : "I connected to",
+  "leave_error" : "I CAN'T LEAVE IF I'M NOT IN, IDIOT!!! :angry: :angry: :angry:",
+  "play" : ":musical_keyboard: Do I really have to play that shit?.... :thinking: ",
+  "clear" : ":broom: :baby_tone5:     :o2: :regional_indicator_k:     :b: :regional_indicator_o: :o: :m: :regional_indicator_e: :regional_indicator_r:      :baby_tone5: :broom:   ",
+  "ERROR_question" : ":person_facepalming_tone5:  NOOOOOOOO, It's like this:    .question (your question)",
+  "ERROR_dick" : ":person_facepalming_tone5:  ASS; It's like this:    .dick @(user)",
+  "ERROR_clear" : "It's like this, moron:     .clear (number of messages to delete)",
+  "ERROR_request" : "You're not doing it right... It's:    .request (idea for a new command)"
+}

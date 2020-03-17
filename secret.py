@@ -1,0 +1,5 @@
+DISCORD_TOKEN = 'Njc1MzI3MjMyMjQ3NTk1MDU1.Xj1hxQ.Xe1zY_lYusC27EtrhvRKYdJomgw'
+
+IMGFLIP_USERNAME = 'alejandrodlsp'
+IMGFLIP_PASSWORD = 'cV42#G5%jy#uaca*'
+

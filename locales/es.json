@@ -1,0 +1,17 @@
+{
+    "on_pardon": ":cowboy: El cowboy ha perdonado a: ",
+    "carla" : "Dale Carla, mostrame una teta que soy aliadx",
+    "dick" : ":eggplant:  La polla de: ",
+	"sjw" : "PUAJ PUAJ :face_vomiting: :face_vomiting:",
+	"vox" : ":flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es::flag_es:",
+	"sad" : ":pensive: :love_you_gesture_tone1:",
+	"meme_embed" : ":see_no_evil:  Aqui tienes pendejx :see_no_evil: ",
+	"join" : "Me he conectado a",
+	"leave_error" : "NO PUEDO SALIR SI NO ESTOY DENTRO TONTO!!! :angry: :angry: :angry:",
+	"play" : ":musical_keyboard: Dejame un momentito que te ponga la musiquilla.... :thinking: ",
+	"clear" : ":merperson_tone5::broom:      :ok:      :regional_indicator_p: :regional_indicator_u: :regional_indicator_t: :o2:      :merperson_tone5::broom:  ",
+    "ERROR_question" : ":person_facepalming_tone5:  QUE TONTOOOOOO; Se hace asi:    .pregunta (tu pregunta)",
+    "ERROR_dick" : ":person_facepalming_tone5:  PUTO; Se hace asi:    .polla @(usuario)",
+	"ERROR_clear" : "Retrasado. Se hace asi:     .clear (numero de mensajes que borrar)",
+	"ERROR_request" : "Te falta por poner argumentos, so tonto. Es:    .request (idea para nuevo comando)"
+}
