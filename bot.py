@@ -9,7 +9,7 @@ import json
 
 #DECLARATIONS
 bot = commands.Bot(command_prefix = '.')
-status = cycle(['Plage Inc: Corona update', 'God', 'monkey killer simulator', 'UU AA UU AA', 'corona', 'killing jews'])
+status = cycle(['Plague Inc: Corona update', 'God', 'monkey killer simulator', 'UU AA UU AA', 'corona', 'killing jews'])
 
 LOCALE_GUILD_METADATA_FILE = './locales/locales.json'
 
