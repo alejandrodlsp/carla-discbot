@@ -46,7 +46,7 @@ async def reload(ctx):
         if filename.endswith('.py'):
             print(filename)
             if filename == "locales.py":
-                return
+                continue
             try:
                 bot.unload_extension(f'cogs.{filename[:-3]}')
                 bot.load_extension(f'cogs.{filename[:-3]}')
